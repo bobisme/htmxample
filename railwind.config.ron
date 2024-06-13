@@ -1,0 +1,6 @@
+(
+    content: [
+        "templates/*.html",
+    ],
+    extend_collection_options: None,
+)
